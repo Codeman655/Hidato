@@ -1,0 +1,1675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="4a4ae6a0-723b-43ac-bf2e-242333ebd202" name="Default" comment="">
+      <change type="DELETED" beforePath="$USER_HOME$/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$USER_HOME$/get_dotfiles.sh" afterPath="" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.vim/plugged/sparkup" afterPath="$USER_HOME$/.vim/plugged/sparkup" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.vim/plugged/vim-easy-align" afterPath="$USER_HOME$/.vim/plugged/vim-easy-align" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.vim/plugged/vim-easymotion" afterPath="$USER_HOME$/.vim/plugged/vim-easymotion" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.vim/plugged/vim-fugitive" afterPath="$USER_HOME$/.vim/plugged/vim-fugitive" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.vim/plugged/vim-markdown" afterPath="$USER_HOME$/.vim/plugged/vim-markdown" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.vim/plugged/vim-surround" afterPath="$USER_HOME$/.vim/plugged/vim-surround" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/log/.easter-egg" afterPath="$USER_HOME$/.oh-my-zsh/log/.easter-egg" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.vim/.netrwhist" afterPath="$USER_HOME$/.vim/.netrwhist" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.tmux.conf" afterPath="$USER_HOME$/.tmux.conf" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.viminfo" afterPath="$USER_HOME$/.viminfo" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.vimrc" afterPath="$USER_HOME$/.vimrc" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.zshrc" afterPath="$USER_HOME$/.zshrc" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/wakeonlan/README" afterPath="$USER_HOME$/.oh-my-zsh/plugins/wakeonlan/README" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/Soliah.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/Soliah.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/brew/_brew" afterPath="$USER_HOME$/.oh-my-zsh/plugins/brew/_brew" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/bundler/_bundler" afterPath="$USER_HOME$/.oh-my-zsh/plugins/bundler/_bundler" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/cpanm/_cpanm" afterPath="$USER_HOME$/.oh-my-zsh/plugins/cpanm/_cpanm" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/extract/_extract" afterPath="$USER_HOME$/.oh-my-zsh/plugins/extract/_extract" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/gas/_gas" afterPath="$USER_HOME$/.oh-my-zsh/plugins/gas/_gas" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/gem/_gem" afterPath="$USER_HOME$/.oh-my-zsh/plugins/gem/_gem" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/github/_github" afterPath="$USER_HOME$/.oh-my-zsh/plugins/github/_github" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/heroku/_heroku" afterPath="$USER_HOME$/.oh-my-zsh/plugins/heroku/_heroku" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/knife/_knife" afterPath="$USER_HOME$/.oh-my-zsh/plugins/knife/_knife" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/osx/_man-preview" afterPath="$USER_HOME$/.oh-my-zsh/plugins/osx/_man-preview" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/pip/_pip" afterPath="$USER_HOME$/.oh-my-zsh/plugins/pip/_pip" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/macports/_port" afterPath="$USER_HOME$/.oh-my-zsh/plugins/macports/_port" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/powder/_powder" afterPath="$USER_HOME$/.oh-my-zsh/plugins/powder/_powder" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/redis-cli/_redis-cli" afterPath="$USER_HOME$/.oh-my-zsh/plugins/redis-cli/_redis-cli" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/taskwarrior/_task" afterPath="$USER_HOME$/.oh-my-zsh/plugins/taskwarrior/_task" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/terminitor/_terminitor" afterPath="$USER_HOME$/.oh-my-zsh/plugins/terminitor/_terminitor" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/thor/_thor" afterPath="$USER_HOME$/.oh-my-zsh/plugins/thor/_thor" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/vagrant/_vagrant" afterPath="$USER_HOME$/.oh-my-zsh/plugins/vagrant/_vagrant" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/wakeonlan/_wake" afterPath="$USER_HOME$/.oh-my-zsh/plugins/wakeonlan/_wake" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/af-magic.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/af-magic.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/afowler.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/afowler.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/alanpeabody.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/alanpeabody.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/ant/ant.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/ant/ant.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/apache2-macports/apache2-macports.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/apache2-macports/apache2-macports.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/apple.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/apple.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/archlinux/archlinux.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/archlinux/archlinux.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/arrow.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/arrow.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/aussiegeek.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/aussiegeek.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/autojump/autojump.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/autojump/autojump.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/awesomepanda.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/awesomepanda.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/battery/battery.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/battery/battery.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/bira.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/bira.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/blinks.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/blinks.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/brew/brew.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/brew/brew.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/bundler/bundler.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/bundler/bundler.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/cake/cake.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/cake/cake.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/candy.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/candy.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/tools/check_for_upgrade.sh" afterPath="$USER_HOME$/.oh-my-zsh/tools/check_for_upgrade.sh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/clean.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/clean.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/cloud.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/cloud.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/cloudapp/cloudapp.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/cloudapp/cloudapp.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/command-not-found/command-not-found.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/command-not-found/command-not-found.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/compleat/compleat.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/compleat/compleat.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/lib/completion.zsh" afterPath="$USER_HOME$/.oh-my-zsh/lib/completion.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/lib/correction.zsh" afterPath="$USER_HOME$/.oh-my-zsh/lib/correction.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/crunch.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/crunch.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/cypher.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/cypher.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/dallas.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/dallas.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/darkblood.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/darkblood.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/daveverwer.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/daveverwer.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/debian/debian.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/debian/debian.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/dieter.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/dieter.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/dircycle/dircycle.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/dircycle/dircycle.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/lib/directories.zsh" afterPath="$USER_HOME$/.oh-my-zsh/lib/directories.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/dirpersist/dirpersist.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/dirpersist/dirpersist.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/django/django.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/django/django.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/dogenpunk.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/dogenpunk.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/dpoggi.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/dpoggi.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/dst.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/dst.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/dstufft.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/dstufft.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/duellj.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/duellj.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/eastwood.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/eastwood.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/edvardm.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/edvardm.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/encode64/encode64.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/encode64/encode64.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/evan.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/evan.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/example.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/example.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/custom/example.zsh" afterPath="$USER_HOME$/.oh-my-zsh/custom/example.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/extract/extract.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/extract/extract.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/fasd/fasd.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/fasd/fasd.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/fino-time.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/fino-time.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/fino.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/fino.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/fishy.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/fishy.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/flazz.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/flazz.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/fletcherm.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/fletcherm.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/fox.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/fox.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/frisk.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/frisk.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/lib/functions.zsh" afterPath="$USER_HOME$/.oh-my-zsh/lib/functions.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/funky.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/funky.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/fwalch.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/fwalch.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/gallifrey.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/gallifrey.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/gallois.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/gallois.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/garyblessington.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/garyblessington.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/gentoo.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/gentoo.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/geoffgarside.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/geoffgarside.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/git-flow/git-flow.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/git-flow/git-flow.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/git/git.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/git/git.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/lib/git.zsh" afterPath="$USER_HOME$/.oh-my-zsh/lib/git.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/github/github.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/github/github.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/gnu-utils/gnu-utils.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/gnu-utils/gnu-utils.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/gnzh.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/gnzh.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/go/go.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/go/go.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/gozilla.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/gozilla.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/gpg-agent/gpg-agent.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/gpg-agent/gpg-agent.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/gradle/gradle.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/gradle/gradle.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/grails/grails.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/grails/grails.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/lib/grep.zsh" afterPath="$USER_HOME$/.oh-my-zsh/lib/grep.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/history-substring-search/history-substring-search.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/history-substring-search/history-substring-search.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/history-substring-search/history-substring-search.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/history-substring-search/history-substring-search.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/lib/history.zsh" afterPath="$USER_HOME$/.oh-my-zsh/lib/history.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/humza.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/humza.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/imajes.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/imajes.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/jake-node/jake-node.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/jake-node/jake-node.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/jbergantine.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/jbergantine.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/jispwoso.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/jispwoso.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/jnrowe.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/jnrowe.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/jonathan.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/jonathan.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/josh.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/josh.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/jreese.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/jreese.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/jruby/jruby.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/jruby/jruby.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/jtriley.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/jtriley.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/juanghurtado.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/juanghurtado.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/kardan.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/kardan.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/kate/kate.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/kate/kate.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/kennethreitz.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/kennethreitz.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/lib/key-bindings.zsh" afterPath="$USER_HOME$/.oh-my-zsh/lib/key-bindings.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/kolo.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/kolo.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/kphoen.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/kphoen.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/lambda.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/lambda.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/lein/lein.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/lein/lein.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/lighthouse/lighthouse.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/lighthouse/lighthouse.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/lol/lol.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/lol/lol.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/lukerandall.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/lukerandall.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/macovsky-ruby.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/macovsky-ruby.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/macovsky.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/macovsky.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/macports/macports.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/macports/macports.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/maran.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/maran.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/mercurial/mercurial.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/mercurial/mercurial.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/mgutz.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/mgutz.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/mh.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/mh.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/mikeh.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/mikeh.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/miloshadzic.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/miloshadzic.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/minimal.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/minimal.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/lib/misc.zsh" afterPath="$USER_HOME$/.oh-my-zsh/lib/misc.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/mortalscumbag.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/mortalscumbag.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/mrtazz.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/mrtazz.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/murilasso.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/murilasso.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/muse.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/muse.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/mvn/mvn.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/mvn/mvn.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/mysql-macports/mysql-macports.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/mysql-macports/mysql-macports.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/nanotech.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/nanotech.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/nebirhos.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/nebirhos.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/nicoulaj.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/nicoulaj.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/node/node.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/node/node.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/norm.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/norm.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/npm/npm.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/npm/npm.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/nyan/nyan.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/nyan/nyan.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/obraun.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/obraun.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/oh-my-zsh.sh" afterPath="$USER_HOME$/.oh-my-zsh/oh-my-zsh.sh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/osx/osx.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/osx/osx.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/per-directory-history/per-directory-history.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/per-directory-history/per-directory-history.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/perl/perl.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/perl/perl.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/philips.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/philips.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/phing/phing.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/phing/phing.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.vim/autoload/plug.vim.old" afterPath="$USER_HOME$/.vim/autoload/plug.vim.old" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/pmcgee.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/pmcgee.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/pow/pow.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/pow/pow.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/pygmalion.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/pygmalion.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/python/python.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/python/python.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/rails/rails.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/rails/rails.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/rake/rake.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/rake/rake.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/rbenv/rbenv.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/rbenv/rbenv.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/rbfu/rbfu.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/rbfu/rbfu.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/re5et.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/re5et.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/rgm.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/rgm.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/risto.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/risto.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/rixius.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/rixius.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/rkj-repos.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/rkj-repos.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/rkj.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/rkj.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/robbyrussell.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/robbyrussell.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/ruby/ruby.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/ruby/ruby.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/rvm/rvm.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/rvm/rvm.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/sammy.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/sammy.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/screen/screen.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/screen/screen.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/simple.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/simple.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/skaro.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/skaro.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/smt.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/smt.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/sonicradish.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/sonicradish.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/sorin.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/sorin.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/lib/spectrum.zsh" afterPath="$USER_HOME$/.oh-my-zsh/lib/spectrum.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/sporty_256.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/sporty_256.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/sprunge/sprunge.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/sprunge/sprunge.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/ssh-agent/ssh-agent.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/ssh-agent/ssh-agent.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/steeef.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/steeef.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/sublime/sublime.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/sublime/sublime.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/sunaku.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/sunaku.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/sunrise.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/sunrise.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/superjarin.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/superjarin.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/suse/suse.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/suse/suse.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/suvash.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/suvash.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/svn/svn.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/svn/svn.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/symfony2/symfony2.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/symfony2/symfony2.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/takashiyoshida.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/takashiyoshida.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/taskwarrior/taskwarrior.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/taskwarrior/taskwarrior.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/terminalapp/terminalapp.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/terminalapp/terminalapp.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/terminalparty.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/terminalparty.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/lib/termsupport.zsh" afterPath="$USER_HOME$/.oh-my-zsh/lib/termsupport.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/textmate/textmate.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/textmate/textmate.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/lib/theme-and-appearance.zsh" afterPath="$USER_HOME$/.oh-my-zsh/lib/theme-and-appearance.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/theunraveler.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/theunraveler.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/tjkirch.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/tjkirch.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/tonotdo.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/tonotdo.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/trapd00r.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/trapd00r.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/tools/uninstall.sh" afterPath="$USER_HOME$/.oh-my-zsh/tools/uninstall.sh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/tools/upgrade.sh" afterPath="$USER_HOME$/.oh-my-zsh/tools/upgrade.sh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/vi-mode/vi-mode.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/vi-mode/vi-mode.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/virtualenvwrapper/virtualenvwrapper.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/virtualenvwrapper/virtualenvwrapper.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/vundle/vundle.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/vundle/vundle.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/wakeonlan/wakeonlan.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/wakeonlan/wakeonlan.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/wedisagree.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/wedisagree.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/wezm+.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/wezm+.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/wezm.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/wezm.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/wuffers.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/wuffers.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/xiong-chiamiov-plus.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/xiong-chiamiov-plus.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/xiong-chiamiov.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/xiong-chiamiov.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/plugins/yum/yum.plugin.zsh" afterPath="$USER_HOME$/.oh-my-zsh/plugins/yum/yum.plugin.zsh" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/themes/zhann.zsh-theme" afterPath="$USER_HOME$/.oh-my-zsh/themes/zhann.zsh-theme" />
+      <change type="MODIFICATION" beforePath="$USER_HOME$/.oh-my-zsh/templates/zshrc.zsh-template" afterPath="$USER_HOME$/.oh-my-zsh/templates/zshrc.zsh-template" />
+    </list>
+    <ignored path="hidato.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path="$PROJECT_DIR$/desktop/.gradle/" />
+    <ignored path="$PROJECT_DIR$/desktop/build/" />
+    <ignored path="$PROJECT_DIR$/html/.gradle/" />
+    <ignored path="$PROJECT_DIR$/html/build/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="$PROJECT_DIR$/core/.gradle/" />
+    <ignored path="$PROJECT_DIR$/core/build/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="hidato" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$USER_HOME$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="tasksExpandState">
+      <map>
+        <entry key="" value="true" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="hidato" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value=":core" />
+                <option name="path" value="$PROJECT_DIR$/core" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":desktop" />
+                <option name="path" value="$PROJECT_DIR$/desktop" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="hidato" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value=":html" />
+                <option name="path" value="$PROJECT_DIR$/html" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the GWT compiler to produce draft quality output used for development" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="draftCompileGwt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'hidato'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the GWT development mode" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="gwtDev" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the GWT super dev mode" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="gwtSuperDev" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':core'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'hidato'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':desktop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates a war using the output of the task draftCompileGwt" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="draftWar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':desktop'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':html'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':html'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'hidato'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':html'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':desktop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates an exploded web application template to be used by GWT dev mode and eclipse to ensure src/main/webapp stays clean" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="warTemplate" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':desktop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Stops Jetty." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jettyStop" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="superDev" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':core'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="addSource" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the GWT compiler to validate the relevant sources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="checkGwt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="generateGdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uses your files as and where they are and deploys them to Jetty." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jettyRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':core'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':html'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'hidato' (some of the displayed tasks may belong to subprojects)." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':core'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':desktop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Gradle wrapper files. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':desktop'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'hidato'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':core'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':core'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="draftRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'hidato'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':core'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':html'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':desktop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the webapp into a war and deploys it to Jetty." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jettyRunWar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the GWT compiler to translate Java sources to JavaScript for production ready output" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileGwt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Post processing after project generation" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="afterEclipseImport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'hidato'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':html'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':html'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/core">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':core'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':core'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':core'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':core'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':core'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':core'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':core'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/core" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/desktop">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Post processing after project generation" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="afterEclipseImport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':desktop'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':desktop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':desktop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="dist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':desktop'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':desktop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':desktop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="run" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':desktop'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/desktop" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/html">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="addSource" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the GWT compiler to validate the relevant sources" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="checkGwt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'main'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Cleans all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="cleanEclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="cleanEclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="cleanEclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="cleanEclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the GWT compiler to translate Java sources to JavaScript for production ready output" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="compileGwt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'main:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles Java source 'test:java'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by project ':html'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in project ':html'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in project ':html'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="dist" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the GWT compiler to produce draft quality output used for development" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="draftCompileGwt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="draftRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates a war using the output of the task draftCompileGwt" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="draftWar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates all Eclipse files." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="eclipse" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse classpath file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="eclipseClasspath" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse JDT settings file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="eclipseJdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates the Eclipse project file." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="eclipseProject" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="generateGdt" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the GWT development mode" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="gwtDev" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the GWT super dev mode" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="gwtSuperDev" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Uses your files as and where they are and deploys them to Jetty." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="jettyRun" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the webapp into a war and deploys it to Jetty." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="jettyRunWar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Stops Jetty." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="jettyStop" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of project ':html'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'main:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes JVM resources 'test:resources'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of project ':html'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of project ':html'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="superDev" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from project ':html'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles classes 'test'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates a war archive with all the compiled classes, the web-app content and the libraries." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="war" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Creates an exploded web application template to be used by GWT dev mode and eclipse to ensure src/main/webapp stays clean" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$/html" />
+                <option name="name" value="warTemplate" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="7205129120000" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$MODULE_DIR$/unresolved dependency - de.richsource.gradle.plugins gwt-gradle-plugin 0.6" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/core">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$MODULE_DIR$/unresolved dependency - de.richsource.gradle.plugins gwt-gradle-plugin 0.6" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.5/1aafe92f2aca6a95f6b0590336411cc52b814445/gdx-1.6.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.5/b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d/gdx-1.6.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.5/2165eee09b2f7b0d2919ce9024b2ab998ea6ed5/gdx-box2d-1.6.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.5/d81b49d6bc9aa29518fcaa7db9474fe7405fa324/gdx-box2d-1.6.5.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/core" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/desktop">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$MODULE_DIR$/unresolved dependency - de.richsource.gradle.plugins gwt-gradle-plugin 0.6" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-lwjgl/1.6.5/5e5fee963c518667f88dd75fd2e3bafe50a24b55/gdx-backend-lwjgl-1.6.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-lwjgl/1.6.5/3b435f75bbc525be3d6aba5a2ae888a20e65c9ca/gdx-backend-lwjgl-1.6.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-platform/1.6.5/e36705dc77ff6d585be5f7c78f85fe94ea278d7a/gdx-platform-1.6.5-natives-desktop.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d-platform/1.6.5/57a4b297f467f98904fb210733bb0eb11576421f/gdx-box2d-platform-1.6.5-natives-desktop.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.5/1aafe92f2aca6a95f6b0590336411cc52b814445/gdx-1.6.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.5/b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d/gdx-1.6.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.2/4d114b5ef3ad3bf571b1f090cb00855991067e0b/lwjgl-2.9.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl/2.9.2/a9d80fe5935c7a9149f6584d9777cfd471f65489/lwjgl-2.9.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.2/308d4ebe8d7b240d3490b6a7e0424807ea3ad98b/lwjgl_util-2.9.2-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl_util/2.9.2/4b9e37300a87799856e0bd15ed81663cdb6b0947/lwjgl_util-2.9.2.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.jlayer/jlayer/1.0.1-gdx/f1c4ffebc5e4f68be914404faab580c20de8ea1f/jlayer-1.0.1-gdx-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.jlayer/jlayer/1.0.1-gdx/7cca83cec5c1b2f011362f4d85aabd71a73b049d/jlayer-1.0.1-gdx.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jcraft/jorbis/0.0.17/5446be5d62e4c6b347c8e6cd28dc00a936417ba2/jorbis-0.0.17-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.jcraft/jorbis/0.0.17/8872d22b293e8f5d7d56ff92be966e6dc28ebdc6/jorbis-0.0.17.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.2/510c7d317f5e9e700b9cfaac5fd38bdebf0702e0/lwjgl-platform-2.9.2-natives-windows.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.2/d276cdf61fe2b516c7b7f4aa1b8dea91dbdc8d56/lwjgl-platform-2.9.2-natives-linux.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.lwjgl.lwjgl/lwjgl-platform/2.9.2/d55b46b40b40249d627a83a7f7f22649709d70c3/lwjgl-platform-2.9.2-natives-osx.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/82604cfeb87b9ab70ed70aa19a137de8ceb21504/jinput-2.0.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput/2.0.5/39c7796b469a600f72380316f6b1f11db6c2c7c4/jinput-2.0.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/d18678a00b216863206a1bb6190507e02a32971b/jutils-1.0.0-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jutils/jutils/1.0.0/e12fe1fda814bd348c1579329c86943d2cd3c6a6/jutils-1.0.0.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/7ff832a6eb9ab6a767f1ade2b548092d0fa64795/jinput-platform-2.0.5-natives-linux.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/385ee093e01f587f30ee1c8a2ee7d408fd732e16/jinput-platform-2.0.5-natives-windows.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/net.java.jinput/jinput-platform/2.0.5/53f9c919f34d2ca9de8c51fc4e1e8282029a9232/jinput-platform-2.0.5-natives-osx.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/desktop" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                  <entry key="$PROJECT_DIR$/html">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="entries">
+                          <list>
+                            <option value="$MODULE_DIR$/unresolved dependency - de.richsource.gradle.plugins gwt-gradle-plugin 0.6" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.6.5/390e89a1c72a0ead47a04381164792f33e251bcb/gdx-backend-gwt-1.6.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-backend-gwt/1.6.5/1e1224dc2341045b5f074a807cc499ba6aa15f01/gdx-backend-gwt-1.6.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.5/1aafe92f2aca6a95f6b0590336411cc52b814445/gdx-1.6.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx/1.6.5/b56ebcc34d39c4bb0a828c5ed04f46a04314bb4d/gdx-1.6.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.5/2165eee09b2f7b0d2919ce9024b2ab998ea6ed5/gdx-box2d-1.6.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d/1.6.5/d81b49d6bc9aa29518fcaa7db9474fe7405fa324/gdx-box2d-1.6.5.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.badlogicgames.gdx/gdx-box2d-gwt/1.6.5/741bd361bfd1f02862ef70636b4e2b5ee2a5c65a/gdx-box2d-gwt-1.6.5-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-user/2.6.1/c32cc6470243fe2703e807e1025ec3354fba0ef8/gwt-user-2.6.1-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.google.gwt/gwt-user/2.6.1/c078b1b8cc0281214b0eb458d2c283d039374fad/gwt-user-2.6.1.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.0.0.GA/7a561191db2203550fbfa40d534d4997624cd369/validation-api-1.0.0.GA-sources.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/javax.validation/validation-api/1.0.0.GA/b6bd7f9d78f6fdaa3c37dae18a4bd298915f328e/validation-api-1.0.0.GA.jar" />
+                            <option value="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.json/json/20090211/c183aa3a2a6250293808bba12262c8920ce5a51c/json-20090211.jar" />
+                          </list>
+                        </option>
+                        <option name="path" value="$PROJECT_DIR$/html" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="core" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/announce" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/antlr" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/base-services" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/base-services-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/build-comparison" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/build-init" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/cli" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/code-quality" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/dependency-management" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/diagnostics" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/ear" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/ide" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/ide-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/internal-integ-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/internal-testing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/ivy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/jacoco" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/javascript" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/jetty" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/language-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/language-java" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/language-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/language-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/language-scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/launcher" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/maven" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/messaging" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/model-core" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/model-groovy" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/open-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/osgi" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/platform-base" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/platform-jvm" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/platform-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/platform-play" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/plugin-development" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/plugin-use" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/plugins" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/publish" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/reporting" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/resources" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/resources-http" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/resources-s3" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/resources-sftp" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/scala" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/signing" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/sonar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/testing-native" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/tooling-api" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/tooling-api-builders" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/ui" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/src/wrapper" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/ant-1.9.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/ant-launcher-1.9.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-base-services-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-base-services-groovy-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-cli-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-core-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-docs-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-launcher-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-messaging-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-model-core-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-model-groovy-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-native-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-open-api-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-resources-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-tooling-api-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-ui-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/gradle-wrapper-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/groovy-all-2.3.10.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-announce-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-antlr-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-build-comparison-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-build-init-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-code-quality-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-dependency-management-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-diagnostics-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-ear-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-ide-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-ide-native-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-ivy-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-jacoco-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-javascript-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-jetty-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-language-groovy-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-language-java-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-language-jvm-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-language-native-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-language-scala-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-maven-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-osgi-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-platform-base-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-platform-jvm-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-platform-native-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-platform-play-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-plugin-development-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-plugin-use-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-plugins-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-publish-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-reporting-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-resources-http-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-resources-s3-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-resources-sftp-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-scala-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-signing-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-sonar-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-testing-native-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/gradle-tooling-api-builders-2.4.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-2.4-all/4nbr1pmuf9qag6p78oj1edfbtn/gradle-2.4/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="20" />
+    <option name="y" value="43" />
+    <option name="width" value="1400" />
+    <option name="height" value="787" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hidato" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hidato" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="hidato" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="GoToClass.includeLibraries" value="false" />
+    <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="MemberChooser.sorted" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="options.lastSelected" value="configurable.group.tools" />
+    <property name="options.splitter.main.proportions" value="0.3" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+      <method />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <method />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+      <method />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="4a4ae6a0-723b-43ac-bf2e-242333ebd202" name="Default" comment="" />
+      <created>1441037556914</created>
+      <option name="number" value="Default" />
+      <updated>1441037556914</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="20" y="43" width="1400" height="787" extended-state="0" />
+    <editor active="false" />
+    <layout>
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.25" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="myTodoPanelSettings">
+      <TodoPanelSettings />
+    </option>
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+</project>
